@@ -2,7 +2,7 @@
 
 **Author:** Drift-Sense Data Generation & Physical Calibration Team  
 **Date:** September 2026  
-**Repository:** `Suryooday/Driftsense`  
+**Repository:** `ansh07verma/driftsense`  
 **Dataset Outputs:** `output/` (20-pair core benchmark) & `output_200/` (200-pair multi-preset dataset)  
 
 ---

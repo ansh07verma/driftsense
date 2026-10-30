@@ -238,7 +238,7 @@ DriftSense provides a complete, modern industrial web application for fab operat
 ## 7. Deliverables & Repository Layout
 
 ```
-Suryooday/Driftsense/
+ansh07verma/driftsense/
 ├── README.md                         # Comprehensive platform documentation & reviewer guide
 ├── REPORT.md                         # Formal 3-page scientific engineering report
 ├── register.py                       # Evaluation registration solver (Output Contract)
@@ -300,7 +300,7 @@ DriftSense grounds its physical noise, electron optics, and registration models 
 
 ## 🔒 Verification & Frozen Submission Seal
 
-* **Git Repository**: `https://github.com/Suryooday/Driftsense.git`
+* **Git Repository**: `https://github.com/ansh07verma/driftsense.git`
 * **Official Release Freeze Tag**: `v2.0-phase2-submission`
 * **Verification Status**:
   - `register.py` CLI Contract: Verified ($20/20$ pairs processed, exact schema emitted)
